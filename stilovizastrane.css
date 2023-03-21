@@ -7,9 +7,9 @@
 
 body { 
 	max-width: 1200px; 
-	display: flex;
-	float: none; 
-    background-color:  #04271a;
+        display: relative;
+        position: center;
+        background-color:  #04271a;
 }
 
 @media only screen and (max-width: 750px){ 
